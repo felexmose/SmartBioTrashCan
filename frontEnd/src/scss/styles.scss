@@ -1,0 +1,43 @@
+//$fontColor: #0091aa;
+//$colorHeading: #14be1c;
+#content  // div with id: content
+{
+    //color: $fontColor;
+    border-style: solid;
+    height: 400px;
+    width: 50%;
+     background-color: powderblue;
+     overflow: scroll;
+}
+
+
+#wrapper
+{
+    
+    //text-align: center;
+    margin-left: 40px;
+}
+
+#notifikation
+{
+    background-color: red;
+    width: 660px;
+}
+
+#btnDiv
+{
+    float: left;
+   // border: 1px solid black;
+   // outline-style: solid;
+    //outline-color: red;
+}
+
+//h2
+//{
+    //color: $colorHeading;
+//}
+
+//h1{
+    //@extend h2;
+//}
+
