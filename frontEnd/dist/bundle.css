@@ -1,0 +1,16 @@
+#content {
+  border-style: solid;
+  height: 400px;
+  width: 50%;
+  background-color: powderblue;
+  overflow: scroll; }
+
+#wrapper {
+  margin-left: 40px; }
+
+#notifikation {
+  background-color: red;
+  width: 660px; }
+
+#btnDiv {
+  float: left; }
